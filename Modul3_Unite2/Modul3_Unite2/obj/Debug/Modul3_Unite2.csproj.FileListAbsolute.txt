@@ -1,0 +1,10 @@
+C:\Users\MERT\source\repos\Modul3_Unite2\Modul3_Unite2\bin\Debug\Modul3_Unite2.exe.config
+C:\Users\MERT\source\repos\Modul3_Unite2\Modul3_Unite2\bin\Debug\Modul3_Unite2.exe
+C:\Users\MERT\source\repos\Modul3_Unite2\Modul3_Unite2\bin\Debug\Modul3_Unite2.pdb
+C:\Users\MERT\source\repos\Modul3_Unite2\Modul3_Unite2\obj\Debug\Modul3_Unite2.csproj.AssemblyReference.cache
+C:\Users\MERT\source\repos\Modul3_Unite2\Modul3_Unite2\obj\Debug\Modul3_Unite2.Form1.resources
+C:\Users\MERT\source\repos\Modul3_Unite2\Modul3_Unite2\obj\Debug\Modul3_Unite2.Properties.Resources.resources
+C:\Users\MERT\source\repos\Modul3_Unite2\Modul3_Unite2\obj\Debug\Modul3_Unite2.csproj.GenerateResource.cache
+C:\Users\MERT\source\repos\Modul3_Unite2\Modul3_Unite2\obj\Debug\Modul3_Unite2.csproj.CoreCompileInputs.cache
+C:\Users\MERT\source\repos\Modul3_Unite2\Modul3_Unite2\obj\Debug\Modul3_Unite2.exe
+C:\Users\MERT\source\repos\Modul3_Unite2\Modul3_Unite2\obj\Debug\Modul3_Unite2.pdb

@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MERT\\source\\repos\\Modul7_Unite1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBB9671-DDA4-4286-A5C9-A7AFF83F086C}|Modul7_Unite1\\Modul7_Unite1.csproj|c:\\users\\mert\\source\\repos\\modul7_unite1\\modul7_unite1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBB9671-DDA4-4286-A5C9-A7AFF83F086C}|Modul7_Unite1\\Modul7_Unite1.csproj|solutionrelative:modul7_unite1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBB9671-DDA4-4286-A5C9-A7AFF83F086C}|Modul7_Unite1\\Modul7_Unite1.csproj|c:\\users\\mert\\source\\repos\\modul7_unite1\\modul7_unite1\\okulyonetim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBB9671-DDA4-4286-A5C9-A7AFF83F086C}|Modul7_Unite1\\Modul7_Unite1.csproj|solutionrelative:modul7_unite1\\okulyonetim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBB9671-DDA4-4286-A5C9-A7AFF83F086C}|Modul7_Unite1\\Modul7_Unite1.csproj|c:\\users\\mert\\source\\repos\\modul7_unite1\\modul7_unite1\\sekiller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBB9671-DDA4-4286-A5C9-A7AFF83F086C}|Modul7_Unite1\\Modul7_Unite1.csproj|solutionrelative:modul7_unite1\\sekiller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sekiller.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\Modul7_Unite1\\Modul7_Unite1\\Sekiller.cs",
+              "RelativeDocumentMoniker": "Modul7_Unite1\\Sekiller.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\Modul7_Unite1\\Modul7_Unite1\\Sekiller.cs",
+              "RelativeToolTip": "Modul7_Unite1\\Sekiller.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwCUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:22:20.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OkulYonetim.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\Modul7_Unite1\\Modul7_Unite1\\OkulYonetim.cs",
+              "RelativeDocumentMoniker": "Modul7_Unite1\\OkulYonetim.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\Modul7_Unite1\\Modul7_Unite1\\OkulYonetim.cs",
+              "RelativeToolTip": "Modul7_Unite1\\OkulYonetim.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:18:46.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\Modul7_Unite1\\Modul7_Unite1\\Program.cs",
+              "RelativeDocumentMoniker": "Modul7_Unite1\\Program.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\Modul7_Unite1\\Modul7_Unite1\\Program.cs",
+              "RelativeToolTip": "Modul7_Unite1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:11:16.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+﻿<Window x:Class="Modul9_Unite3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525"
+        x:Name="wnd" 
+        MouseMove="wnd_MouseMove" 
+        MouseEnter="wnd_MouseEnter" 
+        MouseLeave="wnd_MouseLeave">
+
+    <Canvas x:Name="canvas1">
+        <Label Canvas.Left="208" Canvas.Top="105" Height="25" Name="label1" Width="86" Background="#FF92F892"/>
+    </Canvas>
+</Window>

@@ -1,0 +1,5 @@
+C:\Users\MERT\source\repos\Modul6_Unite1\Modul6_Unite1\obj\Debug\Modul6_Unite1.csproj.AssemblyReference.cache
+C:\Users\MERT\source\repos\Modul6_Unite1\Modul6_Unite1\obj\Debug\MainWindow.g.cs
+C:\Users\MERT\source\repos\Modul6_Unite1\Modul6_Unite1\obj\Debug\App.g.cs
+C:\Users\MERT\source\repos\Modul6_Unite1\Modul6_Unite1\obj\Debug\Modul6_Unite1_MarkupCompile.cache
+C:\Users\MERT\source\repos\Modul6_Unite1\Modul6_Unite1\obj\Debug\Modul6_Unite1_MarkupCompile.lref

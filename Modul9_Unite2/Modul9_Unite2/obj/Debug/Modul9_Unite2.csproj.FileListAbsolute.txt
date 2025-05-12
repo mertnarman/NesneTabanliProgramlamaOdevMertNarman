@@ -1,0 +1,14 @@
+C:\Users\MERT\source\repos\Modul9_Unite2\Modul9_Unite2\bin\Debug\Modul9_Unite2.exe.config
+C:\Users\MERT\source\repos\Modul9_Unite2\Modul9_Unite2\bin\Debug\Modul9_Unite2.exe
+C:\Users\MERT\source\repos\Modul9_Unite2\Modul9_Unite2\bin\Debug\Modul9_Unite2.pdb
+C:\Users\MERT\source\repos\Modul9_Unite2\Modul9_Unite2\obj\Debug\Modul9_Unite2.csproj.AssemblyReference.cache
+C:\Users\MERT\source\repos\Modul9_Unite2\Modul9_Unite2\obj\Debug\MainWindow.baml
+C:\Users\MERT\source\repos\Modul9_Unite2\Modul9_Unite2\obj\Debug\MainWindow.g.cs
+C:\Users\MERT\source\repos\Modul9_Unite2\Modul9_Unite2\obj\Debug\App.g.cs
+C:\Users\MERT\source\repos\Modul9_Unite2\Modul9_Unite2\obj\Debug\Modul9_Unite2_MarkupCompile.cache
+C:\Users\MERT\source\repos\Modul9_Unite2\Modul9_Unite2\obj\Debug\Modul9_Unite2.g.resources
+C:\Users\MERT\source\repos\Modul9_Unite2\Modul9_Unite2\obj\Debug\Modul9_Unite2.Properties.Resources.resources
+C:\Users\MERT\source\repos\Modul9_Unite2\Modul9_Unite2\obj\Debug\Modul9_Unite2.csproj.GenerateResource.cache
+C:\Users\MERT\source\repos\Modul9_Unite2\Modul9_Unite2\obj\Debug\Modul9_Unite2.csproj.CoreCompileInputs.cache
+C:\Users\MERT\source\repos\Modul9_Unite2\Modul9_Unite2\obj\Debug\Modul9_Unite2.exe
+C:\Users\MERT\source\repos\Modul9_Unite2\Modul9_Unite2\obj\Debug\Modul9_Unite2.pdb

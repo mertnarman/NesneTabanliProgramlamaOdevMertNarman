@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MERT\\source\\repos\\Modul8_Unite2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DC00CF-2E24-48C1-AC08-496FE67200C2}|Modul8_Unite2\\Modul8_Unite2.csproj|c:\\users\\mert\\source\\repos\\modul8_unite2\\modul8_unite2\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DC00CF-2E24-48C1-AC08-496FE67200C2}|Modul8_Unite2\\Modul8_Unite2.csproj|solutionrelative:modul8_unite2\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DC00CF-2E24-48C1-AC08-496FE67200C2}|Modul8_Unite2\\Modul8_Unite2.csproj|c:\\users\\mert\\source\\repos\\modul8_unite2\\modul8_unite2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DC00CF-2E24-48C1-AC08-496FE67200C2}|Modul8_Unite2\\Modul8_Unite2.csproj|solutionrelative:modul8_unite2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\Modul8_Unite2\\Modul8_Unite2\\Urun.cs",
+              "RelativeDocumentMoniker": "Modul8_Unite2\\Urun.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\Modul8_Unite2\\Modul8_Unite2\\Urun.cs",
+              "RelativeToolTip": "Modul8_Unite2\\Urun.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:27:11.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\Modul8_Unite2\\Modul8_Unite2\\Program.cs",
+              "RelativeDocumentMoniker": "Modul8_Unite2\\Program.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\Modul8_Unite2\\Modul8_Unite2\\Program.cs",
+              "RelativeToolTip": "Modul8_Unite2\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:26:50.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\MERT\source\repos\Modul7_Unite2\Modul7_Unite2\bin\Debug\net8.0\Modul7_Unite2.exe
+C:\Users\MERT\source\repos\Modul7_Unite2\Modul7_Unite2\bin\Debug\net8.0\Modul7_Unite2.deps.json
+C:\Users\MERT\source\repos\Modul7_Unite2\Modul7_Unite2\bin\Debug\net8.0\Modul7_Unite2.runtimeconfig.json
+C:\Users\MERT\source\repos\Modul7_Unite2\Modul7_Unite2\bin\Debug\net8.0\Modul7_Unite2.dll
+C:\Users\MERT\source\repos\Modul7_Unite2\Modul7_Unite2\bin\Debug\net8.0\Modul7_Unite2.pdb
+C:\Users\MERT\source\repos\Modul7_Unite2\Modul7_Unite2\obj\Debug\net8.0\Modul7_Unite2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERT\source\repos\Modul7_Unite2\Modul7_Unite2\obj\Debug\net8.0\Modul7_Unite2.AssemblyInfoInputs.cache
+C:\Users\MERT\source\repos\Modul7_Unite2\Modul7_Unite2\obj\Debug\net8.0\Modul7_Unite2.AssemblyInfo.cs
+C:\Users\MERT\source\repos\Modul7_Unite2\Modul7_Unite2\obj\Debug\net8.0\Modul7_Unite2.csproj.CoreCompileInputs.cache
+C:\Users\MERT\source\repos\Modul7_Unite2\Modul7_Unite2\obj\Debug\net8.0\Modul7_Unite2.dll
+C:\Users\MERT\source\repos\Modul7_Unite2\Modul7_Unite2\obj\Debug\net8.0\refint\Modul7_Unite2.dll
+C:\Users\MERT\source\repos\Modul7_Unite2\Modul7_Unite2\obj\Debug\net8.0\Modul7_Unite2.pdb
+C:\Users\MERT\source\repos\Modul7_Unite2\Modul7_Unite2\obj\Debug\net8.0\Modul7_Unite2.genruntimeconfig.cache
+C:\Users\MERT\source\repos\Modul7_Unite2\Modul7_Unite2\obj\Debug\net8.0\ref\Modul7_Unite2.dll

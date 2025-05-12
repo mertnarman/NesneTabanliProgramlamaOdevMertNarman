@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MERT\\source\\repos\\Modul9_Unite2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C50157-8375-4061-B266-D94E2A2F38C7}|Modul9_Unite2\\Modul9_Unite2.csproj|c:\\users\\mert\\source\\repos\\modul9_unite2\\modul9_unite2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C50157-8375-4061-B266-D94E2A2F38C7}|Modul9_Unite2\\Modul9_Unite2.csproj|solutionrelative:modul9_unite2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C50157-8375-4061-B266-D94E2A2F38C7}|Modul9_Unite2\\Modul9_Unite2.csproj|c:\\users\\mert\\source\\repos\\modul9_unite2\\modul9_unite2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B0C50157-8375-4061-B266-D94E2A2F38C7}|Modul9_Unite2\\Modul9_Unite2.csproj|solutionrelative:modul9_unite2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C50157-8375-4061-B266-D94E2A2F38C7}|Modul9_Unite2\\Modul9_Unite2.csproj|c:\\users\\mert\\source\\repos\\modul9_unite2\\modul9_unite2\\uye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C50157-8375-4061-B266-D94E2A2F38C7}|Modul9_Unite2\\Modul9_Unite2.csproj|solutionrelative:modul9_unite2\\uye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Uye.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\Modul9_Unite2\\Modul9_Unite2\\Uye.cs",
+              "RelativeDocumentMoniker": "Modul9_Unite2\\Uye.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\Modul9_Unite2\\Modul9_Unite2\\Uye.cs",
+              "RelativeToolTip": "Modul9_Unite2\\Uye.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:29:52.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\Modul9_Unite2\\Modul9_Unite2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Modul9_Unite2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\Modul9_Unite2\\Modul9_Unite2\\MainWindow.xaml",
+              "RelativeToolTip": "Modul9_Unite2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-09T16:29:11.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\Modul9_Unite2\\Modul9_Unite2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Modul9_Unite2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\Modul9_Unite2\\Modul9_Unite2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Modul9_Unite2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:29:10.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
